@@ -41,3 +41,7 @@ gem "kramdown-parser-gfm"
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.8"
+
+gem "github-pages", "~> 228"
+
+gem "jekyll-remote-theme", "~> 0.4.3"
